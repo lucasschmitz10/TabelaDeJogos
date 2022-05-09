@@ -1,0 +1,140 @@
+*{
+    margin: 0 auto;
+}
+.tudo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}   
+body{
+    background-color: grey);
+}
+.linha{
+    clear: both;
+}
+.divTudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2TituloSessao{
+    padding: 20px;
+}
+#divCabecalho{
+   background-color: #162e58;
+   padding: 30px, 50px, 10px, 50px;
+   min-height: 100%;
+   position: relative;
+   
+}
+#h1TituloCabecalho{
+    color: rgb(248, 248, 248);
+    font-size: 20px;
+    text-align: left;
+    min-width: 50%;
+    float: left;
+    margin-left: 1%;
+}
+.tituloclube{
+    width: 30%;
+}
+.imgclube{
+    width: 20px;
+    height: 20px;
+}
+.divvit{
+    background-image: url('../img/v.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+}
+.divemp{
+    background-image: url('../img/e.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+
+}
+.divder{
+    background-image: url('../img/d.svg');
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    float: right;
+    margin-right: 5px;
+
+}
+#ultimascinco{
+    width: 30px;%;
+}
+#divClassificacao{
+    background-color: white;
+    width: 60%;
+}
+
+
+h3{
+    padding: 10px;
+}
+#divGoleadores{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+
+}
+#tableGoleadores{
+    width: 80%;
+    background-color: white;
+}
+th,td{
+    border-bottom: 1px solid #162e58;
+    padding: 6px;
+}
+#divjogos{
+    background-color: white;
+    width: 60%;
+    
+}
+#tableJogos{
+    width: 80%;
+    background-color: white;
+}
+.nomeclube{
+    color: darkgray;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.tablejogo td,.tabelejogo tr{
+    border: 0px;
+}
+.divmenu{
+  bottom:0;
+  width: 100%;
+  text-align: center;
+  
+}
+.itemmenu{
+    float:left;
+    text-align: center;
+    margin-top: 6%;
+    width: 12.5%;
+    font-size: 20px;
+   
+}    
+a{
+    color: white;
+}
+.itemmenu:hover{
+    background-color: rgb(112, 114, 247);
+}
+tr:hover >td{
+    background-color: rgb(112, 114, 247);
+}
+h2{
+    padding: 10px;
+}
+.table{
+    width: 80%;
+}
+.center{
+    text-align: center;
+}
